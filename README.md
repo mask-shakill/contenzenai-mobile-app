@@ -1,1 +1,2 @@
-# core-dart
+# contentzen ai mobile app
+
